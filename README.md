@@ -7,4 +7,4 @@ This repository contains my Jupyter Notebook for analyzing scientific literature
 - **notebook.ipynb**: The Jupyter Notebook with all code, explanations, and results.
 - **images/**: Directory containing the images used in the notebook.
 
-You can view the notebook [here](notebook.ipynb) for full details.
+You can view the notebook [here](Thesis-Markdown.ipynb) for full details.
